@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- [ ] Do you see a smiley? 😄
+- [x] A Heart! :heart:
+- [ ] Good job 👍
